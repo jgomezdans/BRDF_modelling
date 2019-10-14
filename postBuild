@@ -1,0 +1,10 @@
+#!/bin/bash
+
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable python-markdown/main
+
+# Install a JupyterLab extension for demonstration purposes
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+jupyter trust *.ipynb
+
