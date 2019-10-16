@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/215607201.svg)](https://zenodo.org/badge/latestdoi/215607201)
+
 # BRDF modelling
 ### J Gómez-Dans & P Lewis (National Centre for Earth Observation & UCL)
 
