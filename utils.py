@@ -69,3 +69,4 @@ def fit_period_prior(doys, qa, rho, start_doy, end_doy, band_unc, kernels,
     f_upper = K@(f - 1.96*sigma_f)
     f_lower = K@(f + 1.96*sigma_f)
     return f, fwd, obs, rmse, r2, the_unc, f_upper, f_lower, sigma_f
+
