@@ -6,11 +6,11 @@ BRDF modelling using linear kernel models on satellite data. BRDF is an importan
 
 There's some software that you can play around. It is designed for *ahem* educational purposes, so you've been warned. 
 
-If this is useful to you and you end up using it, please consider citing it.
+If this is useful to you and you end up using it, please consider citing it. It's on Zenodo. Somewhere. You find this, I'm sure you can find that ;)
 
 You can run the notebooks directly online (takes a while, be patient!)
 
 
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezdans/BRDF_modelling/master?filepath=01-FunWithBRDF.ipynb) Introduction to linear BRDF models
-* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezdans/BRDF_modelling/master?filepath=02-BayesianBRDF.ipynb) Some Bayesian concepts to improve on standard retrieval methods.
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezdans/BRDF_modelling/master?urlpath=lab/tree/01-FunWithBRDF.ipynb) Introduction to linear BRDF models
+* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezdans/BRDF_modelling/master?urlpath=lab/tree/02-BayesianBRDF.ipynb) Some Bayesian concepts to improve on standard retrieval methods.
 * More stuff coming whenever I feel like it ;)
