@@ -1,0 +1,15 @@
+name: brdf_ucl
+channels:
+    - conda-forge
+dependencies:
+    - jupyterlab
+    - notebook
+    - ipykernel
+    - ipywidgets
+    - widgetsnbextension
+    - matplotlib
+    - scipy
+    - python>=3.6
+    - jupyter_contrib_nbextensions
+    - widgetsnbextension
+    - pip
